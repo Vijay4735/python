@@ -1,0 +1,6 @@
+a=45
+b=45
+if a==b:
+ print('two numbers are equal')
+else:
+ print('two numers are not equal')
