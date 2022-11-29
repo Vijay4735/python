@@ -1,0 +1,6 @@
+a = int(input())
+b = 6969
+if a==b:
+    print('continue the transactions')
+else:
+    print('incorrect pin number please try again')
