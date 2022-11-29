@@ -1,0 +1,5 @@
+balance = 1000
+amt = int(input('enter amount'))
+x = amt + balance
+print('credited amount :',amt)
+print('Main balane :',x)
